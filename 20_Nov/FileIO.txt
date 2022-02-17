@@ -1,0 +1,6 @@
+This file reserved for trail purpose of file Input Output Example.
+Do not delete it.
+
+Don't even try to move it. This input given froom consol.
+why only one line is taking ?? 
+Hope so atleast this time it will work
